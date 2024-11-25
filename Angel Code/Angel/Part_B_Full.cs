@@ -8,6 +8,14 @@ namespace Angel_Code.Angel
 {
     public class Part_B_Full
     {
+        public static void Main(string[] args)
+        {
+            Part_B_Full.Part_B_BubbleSort();
+            Part_B_Full.Part_B_QuickSort();
+            Part_B_Full.Part_B_SequentialSearch();
+            Part_B_Full.Part_B_BinarySearch();
+        }
+
         public static void Part_B_BubbleSort()
         {
             Console.WriteLine("********** Section 1 – Bubble Sort ********** \n");
