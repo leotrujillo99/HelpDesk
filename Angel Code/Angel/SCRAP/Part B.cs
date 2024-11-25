@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sorting_Testing_for_R_T
+namespace Angel_Code.Angel.SCRAP
 {
     public class Part_B
     {
